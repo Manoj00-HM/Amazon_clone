@@ -227,7 +227,7 @@ nav .child2:hover{
     border: 1px solid white;
     /* background-color: #fdb833; */
     background-image: linear-gradient(#fdb833,#d6d6d6);
-    background-image: url("../assets/bg1.png");
+    background-image: url("bg1.png");
     background-repeat: no-repeat;
     background-position: contain;
     background-size: 1498px 500px;
@@ -545,6 +545,7 @@ footer{
     color: gray;
     cursor: pointer;
 }
+
 
 
 
